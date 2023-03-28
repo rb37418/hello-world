@@ -1,2 +1,3 @@
 # hello-world
-This is my first 
+This is my first experience with the github
+I want to deep dive into the github which helps to do a lot.
